@@ -1,0 +1,31 @@
+form{
+    width: 550px;
+    margin: auto;
+    background: #ff0000;
+    padding: 40px;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+ }
+
+ img{
+    border-radius: 10px 10px 10px 10px;
+    border: 2px solid #8b8b8b;
+ }
+
+ #bg{
+    background-color: #000000;
+ }
+
+ #h1{
+    color: aliceblue;
+ }
+ 
+ header{
+   color: #292828;
+   align-items: center;
+ }
+
+ #tb, #h2{
+   color:azure ;
+ }
+
